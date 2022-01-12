@@ -5,3 +5,10 @@
 input{
     height: 99%;
 }
+
+button{
+    line-height: 1rem;
+    padding: 0;
+    color: black;
+    font-size: 1rem;
+}
