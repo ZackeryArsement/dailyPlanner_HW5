@@ -10,5 +10,9 @@ button{
     line-height: 1rem;
     padding: 0;
     color: black;
-    font-size: 1rem;
+}
+.col-1{
+    vertical-align: middle;
+    text-align: center;
+    font-size: 1vw;
 }
